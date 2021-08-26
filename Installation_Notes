@@ -1,0 +1,5 @@
+1- TSC -> npm i -g typescript
+2- Check if it is installed with tsc -v
+3- How to compile: tsc index
+4- You can watch the file: tsc --watch index
+5- Create a tsconfig.json file "tsc --init"

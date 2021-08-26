@@ -1,0 +1,40 @@
+What is TypeScript?
+Open Source Language and is a superset of Javascript.
+
+Offers:
+Static types
+Types is optional
+Compiles down to regular JS
+Can be used for Front End & Backend with Node Js.
+Includes most features from Ecmascript.
+Types from 3rd party libraries can be added with typescript.
+
+Dynamic vs Static Typing
+
+Dynamically typed languages, the types are associated with the run time
+values and not named explicitly in your code. 
+
+Statically typed languages, you explicitly assign types to variables, functions,
+parameters, return values, etc.
+
+Static -> Java, C, Go
+Dynamic -> Javascript, Python, Ruby, PHP
+
+Pros
+-> More Robust
+-> Easily Spot Bugs
+-> Predictability
+-> Readibility
+-> Popular
+
+Cons
+-> More code to write
+-> More to learn
+-> Required Compilation
+-> Not True Static Typing
+
+Compling typescript
+Typescript uses .ts and .tsx extensions
+TSC TypeScript Compiler.
+Can watch files and report errors at compile time.
+The tsconfig.json is used to configure how typescript work.
